@@ -1,0 +1,24 @@
+{
+  "name": "ShutterLoad",
+  "version": "0.0.1",
+  "authors": [
+    "vageeshb <vageesh_bhasin@outlook.com>"
+  ],
+  "description": "Plugin to add a loading screen when client is busy processing/getting data",
+  "main": "src/js/shutterLoad.js",
+  "keywords": [
+    "shutter",
+    "load",
+    "pretty",
+    "load",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

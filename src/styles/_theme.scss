@@ -1,0 +1,101 @@
+section#sLoader {
+
+  .theme-blue {
+    background: color(river);  
+
+    &.center {
+      background: color(gray);  
+    }
+  }
+  .theme-blue-light {
+    background: color(belize);  
+  }
+  
+  .theme-orange {
+    background: color(carrot);  
+
+    &.center {
+      background: color(gray);
+    }
+  }
+  .theme-orange-light {
+    background: color(pumpkin);  
+  }
+
+  .theme-green {
+    background: color(emerald);  
+
+    &.center {
+      background: color(gray);
+    }
+  }
+  .theme-green-light {
+    background: color(nephritis); 
+  }
+
+  .theme-green-blue {
+    background: color(turquoise);  
+
+    &.center {
+      background: color(gray);
+    }
+  }
+  .theme-green-blue-light {
+    background: color(greenSea); 
+  }
+
+  .theme-purple {
+    background: color(amethyst);  
+
+    &.center {
+      background: color(gray);
+    }
+  }
+  .theme-purple-light {
+    background: color(wisteria); 
+  }
+
+  .theme-red {
+    background: color(alizarin);  
+
+    &.center {
+      background: color(gray);
+    }
+  }
+  .theme-red-light {
+    background: color(pom); 
+  }
+
+  .theme-white {
+    background: color(cloud);  
+
+    &.center {
+      background: color(gray);
+    }
+  }
+  .theme-white-light {
+    background: color(silver); 
+  }
+
+  .theme-black {
+    background: color(asphalt);  
+
+    &.center {
+      background: color(gray);
+    }
+  }
+  .theme-black-light {
+    background: color(midnight); 
+  }
+
+  .theme-yellow {
+    background: color(sunFlower);  
+
+    &.center {
+      background: color(gray);
+    }
+  }
+  .theme-yellow-light {
+    background: color(orange); 
+  }
+}

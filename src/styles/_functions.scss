@@ -1,0 +1,14 @@
+// _functions.scss
+@function color($key) {
+  @if map-has-key($colors, $key) {
+    @return map-get($colors, $key);
+  }
+ 
+  @warn "Unknown `#{$key}` in $colors.";
+  @return null;
+}
+
+@mixin square($side) {
+  width: $side;
+  height: $side;
+}

@@ -1,0 +1,53 @@
+{
+  "name": "ShutterLoad",
+  "version": "0.0.1",
+  "description": "Client side plugin to add a shutter style loading screen when client is busy",
+  "main": "gulpfile.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "autoprefixer-core": "^4.0.2",
+    "del": "^1.1.1",
+    "browser-sync": "^1.9.1",
+    "gulp-cache": "^0.2.8",
+    "gulp-csso": "^0.2.9",
+    "gulp": "^3.8.11",
+    "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-jshint": "^1.9.4",
+    "gulp-load-plugins": "^0.8.1",
+    "gulp-minify-html": "^0.1.8",
+    "gulp-postcss": "^3.0.0",
+    "gulp-sass": "^1.3.3",
+    "gulp-size": "^1.2.1",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-useref": "^1.1.1",
+    "gulp-uglify": "^1.1.0",
+    "jshint-stylish": "^1.0.1",
+    "main-bower-files": "^2.6.2",
+    "opn": "^1.0.1",
+    "wiredep": "^2.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vageeshb/ShutterLoad.git"
+  },
+  "keywords": [
+    "shutter",
+    "load",
+    "pretty",
+    "load",
+    "plugin",
+    "client"
+  ],
+  "author": "Vageesh Bhasin <vageesh_bhasin@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vageeshb/ShutterLoad/issues"
+  },
+  "homepage": "https://github.com/vageeshb/ShutterLoad"
+}
